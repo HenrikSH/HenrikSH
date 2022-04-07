@@ -1,5 +1,4 @@
-Interests: c#, php, javascript
-Currently learning React.js
+Interests: c#, php, javascript. Currently learning React.js
 
 <!---
 HenrikSH/HenrikSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
